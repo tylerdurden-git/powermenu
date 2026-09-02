@@ -23,4 +23,4 @@ A lightweight shortcut popup for GNOME inspired by the Windows `Win + X` menu.
 
 Run this in your terminal:
 ```bash
-curl -sSL [https://raw.githubusercontent.com/tylerdurden-git/powermenu/main/install.sh](https://raw.githubusercontent.com/tylerdurden-git/powermenu/main/install.sh) | bash
+curl -sSL https://raw.githubusercontent.com/tylerdurden-git/powermenu/main/install.sh
